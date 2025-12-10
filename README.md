@@ -3,6 +3,7 @@ A collection of small HTML & CSS projects created for practicing modern frontend
 This repository includes navigation menus, tables, forms, registration pages, and various UI components.
 
 ---
+![Task A Screenshot](https://raw.githubusercontent.com/nipun-10/Frontend-UI-Components/main/taska.png)
 
 ## 📁 Project List
 
